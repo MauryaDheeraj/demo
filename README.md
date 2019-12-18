@@ -7,6 +7,5 @@ This is my first repo  where i will see how to create a nice profile
 ___
 
 ```
-print("helo world')
-
+print('helo world')
 ```
